@@ -92,19 +92,7 @@ footer {
 
       }
 
-      .box{
-         display:flex;
-         padding-left: 0cm;
-         width: auto;
-      justify-content: center;
-       
-     }
-
-    
-.form{
-  display:grid;
-}
-
+   
 
 
 
@@ -232,6 +220,7 @@ html{ font-size: 80.5%;
   width: 440px;
   border-radius: 20px;
   padding: 8px;
+  display:grid;
 }
 input,textarea{
   font-size: 13px;
